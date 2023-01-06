@@ -1,0 +1,29 @@
+.header{
+    position: relative;
+    height: 70vh;
+    background-image: url('http://localhost:3000/images/Merzouga6.jpg');
+    background-size: cover;
+}   
+.header>h1{
+    color: white;
+    position: absolute;
+    font-family: Verdana;
+    font-weight: bolder;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    /* transform: translate(-50%,-50%); */
+}
+.header>p{
+    color: white;
+    position: absolute;
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: rgba(238, 241, 242, 0.2);
+    padding: 0 20px;
+    width: 40%;
+    left: 30%;
+    top: 40%;
+    /* transform: translate(-50%,-50%); */
+    /* transform: translate(-50%,-50%); */
+}

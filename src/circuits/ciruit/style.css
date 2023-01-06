@@ -1,0 +1,12 @@
+.card{
+    background-color: rgb(240, 235, 228);
+    width: 20vw;
+    border-radius:15px 15px 0 0 ;
+ margin: 10px;
+    
+}
+.card>img{
+    width: 100%;
+    border-radius:15px 15px 0 0 ;
+   
+}

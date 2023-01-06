@@ -1,0 +1,8 @@
+.cardcontainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 75%;
+    margin-top: 10px;
+    background-color: gainsboro;
+}
